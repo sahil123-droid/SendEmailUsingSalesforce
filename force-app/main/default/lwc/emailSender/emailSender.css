@@ -1,0 +1,12 @@
+:host {
+    --sds-c-card-heading-font-weight: bold;
+}
+.bold{
+    text-align: center;
+    font-weight: bolder;
+}   
+.heading{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
